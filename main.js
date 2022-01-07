@@ -1,4 +1,5 @@
 setScreen("Login");
+
 var nameEntered = "False";
 onEvent("newClick", "click", function( ) {
   playSound("sound://category_app/perfect_app_button_1.mp3", false);
